@@ -1,0 +1,27 @@
+body{
+  background-color: #D0E0EE;
+}
+#title{
+  background-image:linear-gradient(140deg,#04009a, #77acf1);
+  padding: inherit;
+  border-radius: 0 0 150% 70%;
+}
+#title2{
+  background-image:linear-gradient(140deg,#04009a, #77acf1);
+}
+#fet{
+  text-align: left;
+}
+#fas{
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+#fet .a:{text-decoration: none;}
+#con{
+  background-image: linear-gradient(140deg,#04009a, #77acf1);
+  ba
+}
+#footer{
+  background-color: #233e8b;
+}
