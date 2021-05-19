@@ -1,8 +1,8 @@
 body{
-  background-color: #D0E0EE;
+  background-color: #63686e;
 }
 #title{
-  background-image:linear-gradient(140deg,#04009a, #77acf1);
+  background-image:linear-gradient(45deg,#000000,#222831,#333333);
   padding: inherit;
   border-radius: 0 0 150% 70%;
 }
@@ -20,8 +20,8 @@ body{
 #fet .a:{text-decoration: none;}
 #con{
   background-image: linear-gradient(140deg,#04009a, #77acf1);
-  ba
+
 }
 #footer{
-  background-color: #233e8b;
+  background-color: #232931;
 }
